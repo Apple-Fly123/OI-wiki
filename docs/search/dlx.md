@@ -319,7 +319,7 @@ Donald E. Knuth 想到了用双向十字链表来维护这些操作。
 
 ![dlx-1.svg](./images/dlx-1.svg)
 
-大型的双向链表则更为复杂：
+大型的双十字链表则更为复杂：
 
 ![dlx-2.svg](./images/dlx-2.svg)
 
